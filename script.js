@@ -336,7 +336,7 @@ const musicData = {
       "artist": "SAIKO, Yapi",
       "songName": "TE ENCONTRÉ",
       "files": {
-        "song": "TE ENCONTRe.mp3",
+        "song": "TE ENCONTRE.mp3",
         "cover": "imagenes/portada.png"
       }
     },
@@ -415,9 +415,9 @@ const musicData = {
     {
       "bg": "#121212",
       "artist": "SAIKO",
-      "songName": "BB ;(",
+      "songName": "BB",
       "files": {
-        "song": "BB ;(.mp3",
+        "song": "BB.mp3",
         "cover": "imagenes/saiko.jpg"
       }
     },
@@ -451,7 +451,7 @@ const musicData = {
     {
       "bg": "#121212",
       "artist": "SAIKO, Mora",
-      "songName": "NÚMERO TRLEFÓNICO",
+      "songName": "NÚMERO TELEFÓNICO",
       "files": {
         "song": "NTT.mp3",
         "cover": "imagenes/sakura.jpeg"
